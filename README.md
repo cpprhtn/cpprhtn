@@ -1,5 +1,3 @@
-# cpprhtn
-
 # Lee Jun Won
 
 High-student-3grade studen dreaming of bigdata scientist
