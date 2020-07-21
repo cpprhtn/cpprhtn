@@ -2,6 +2,7 @@
 
 > High-student-3grade studen dreaming of bigdata scientist
 
+![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
 
 # **Curriculum**
 
