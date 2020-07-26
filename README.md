@@ -34,7 +34,7 @@ I studied Linux, Assembly, Go for a while
   <li>Study C</li>
   <ul>
     <li>Theory & Grammar</li>
-    <li>Data structure<li>
+    <li>Data structure</li>
   </ul>
   
   <li>동래교육청 정보영재</li>
@@ -54,6 +54,7 @@ I studied Linux, Assembly, Go for a while
     <li>Basic C++(11)</li>
     <li>Modern C++(11/14)</li>
   </ul>
+  
   <li>Study Game Engine 3D</li>
   <ul>
     <li>Unreal Blueprint</li>
