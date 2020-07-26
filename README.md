@@ -31,19 +31,37 @@ I studied Linux, Assembly, Go for a while
 # My life as a programmer
 > Elementary school 5, 6 grade
 <ol>
+  <li>Study C</li>
+  <ul>
+    <li>Theory & Grammar</li>
+    <li>Data structure<li>
+  </ul>
+  
   <li>동래교육청 정보영재</li>
   <ul>
-    <li>Java basic</li>
+    <li>Basic Java</li>
     <li>HTML</li>
     <li>Robot Control</li>
     <li>Computer theory</li>
     <li>Adobe Flash</li>
   </ul>
-  <li>Study C</li>
 </ol>
 
 > Middle school 1, 2, 3 grade
-
+<ol>
+  <li>Study C++</li>
+  <ul>
+    <li>Basic C++(11)</li>
+    <li>Modern C++(11/14)</li>
+  </ul>
+  <li>Study Game Engine 3D</li>
+  <ul>
+    <li>Unreal Blueprint</li>
+    <li>Unreal Script</li>
+    <li>Unity Script</li>
+  </ul>
+</ol>
+  
 
 # Coding Site
 >BaekJoon (Using C++)
