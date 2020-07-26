@@ -28,7 +28,7 @@ Be able to produce web pages : HTML, CSS, JS
 I studied Linux, Assembly, Go for a while
 ```
 
-# My life as a programmer
+# My Programming Timeline
 > Elementary school 5, 6 grade
 <ol>
   <li>Study C</li>
