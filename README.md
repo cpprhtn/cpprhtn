@@ -5,8 +5,7 @@
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
 
 # **Curriculum**
-### 1. Prerequisite
-#### MATH
+### 1. MATH
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
 - [Matrix](https://www.mathsisfun.com/algebra/matrix-introduction.html)
 - [Calculus](https://www.mathsisfun.com/calculus/index.html)
@@ -20,7 +19,6 @@ Studying R, pandas, numpy
 Studying Machine learning library in tree family -> random forest, xgboost, lightgbm
 
 Stduying Deep learning library -> tensorflow, keras
-
 ```
 
 ### 3. Machine Learning and Artificial Intelligence(ML & AI)
@@ -36,7 +34,11 @@ Stduying Deep learning library -> tensorflow, keras
   - 수학이 많이 나오지는 않지만 확률과 통계, 미적분 등을 알아야 배울 수 있으며, 한번에 이해하기에는 난이도가 있는 강의
 
 ### 4. Bigdata
-- Study SPARK and Hadoop MapReduce
+- Hadoop
+- MapReduce
+- SPARK
+- Hbase
+- Hive
 
 # Language Specification
 
@@ -51,7 +53,7 @@ I studied Linux, Assembly, Go for a while
 ```
 
 # My Programming Timeline
-> Elementary school 5, 6 grade
+**Elementary school 5, 6 grade**
 <ol>
   <li>Study C</li>
   <ul>
@@ -69,7 +71,7 @@ I studied Linux, Assembly, Go for a while
   </ul>
 </ol>
 
-> Middle school 1, 2, 3 grade
+**Middle school 1, 2, 3 grade**
 <ol>
   <li>Study C++</li>
   <ul>
