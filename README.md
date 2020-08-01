@@ -55,7 +55,7 @@ I studied Linux, Assembly, Go for a while
 # My Programming Timeline
 **Elementary school 5, 6 grade**
 <ol>
-  <li>Study C</li>
+  <li>[Study C](https://github.com/cpprhtn/Learning_C)</li>
   <ul>
     <li>Theory & Grammar</li>
     <li>Data structure</li>
