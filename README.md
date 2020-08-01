@@ -54,38 +54,33 @@ I studied Linux, Assembly, Go for a while
 
 # My Programming Timeline
 **Elementary school 5, 6 grade**
-<ol>
-  <li>[Study C](https://github.com/cpprhtn/Learning_C)</li>
-  <ul>
-    <li>Theory & Grammar</li>
-    <li>Data structure</li>
-  </ul>
 
-  <li>동래교육청 정보영재</li>
-  <ul>
-    <li>Basic Java</li>
-    <li>HTML</li>
-    <li>Robot Control</li>
-    <li>Computer theory</li>
-    <li>Adobe Flash</li>
-  </ul>
-</ol>
+- [Study C](https://github.com/cpprhtn/Learning_C)
+ - Theory & Grammar
+ - Data structure
+
+
+- [동래교육청 정보영재](https://github.com/cpprhtn/Informational_Education_Institute_for_Gifted)
+ - Basic Java
+ - HTML
+ - Robot Control
+ - Computer theory
+ - Adobe Flash
+
+
 
 **Middle school 1, 2, 3 grade**
-<ol>
-  <li>Study C++</li>
-  <ul>
-    <li>Basic C++(11)</li>
-    <li>Modern C++(11/14)</li>
-  </ul>
 
-  <li>Study Game Engine 3D</li>
-  <ul>
-    <li>Unreal Blueprint</li>
-    <li>Unreal Script</li>
-    <li>Unity Script</li>
-  </ul>
-</ol>
+- [Study C++](https://github.com/cpprhtn/Cpp_BaekJoon)
+ - Basic C++(11)
+ - Modern C++(11/14)
+
+
+- Study Game Engine 3D
+ - Unreal Blueprint
+ - Unreal Script
+ - Unity Script
+
 
 
 # Coding Site (My profile)
