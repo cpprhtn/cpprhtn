@@ -56,30 +56,30 @@ I studied Linux, Assembly, Go for a while
 **Elementary school 5, 6 grade**
 
 - [Study C](https://github.com/cpprhtn/Learning_C)
- - Theory & Grammar
- - Data structure
+  - Theory & Grammar
+  - Data structure
 
 
 - [동래교육청 정보영재](https://github.com/cpprhtn/Informational_Education_Institute_for_Gifted)
- - Basic Java
- - HTML
- - Robot Control
- - Computer theory
- - Adobe Flash
+  - Basic Java
+  - HTML
+  - Robot Control
+  - Computer theory
+  - Adobe Flash
 
 
 
 **Middle school 1, 2, 3 grade**
 
 - [Study C++](https://github.com/cpprhtn/Cpp_BaekJoon)
- - Basic C++(11)
- - Modern C++(11/14)
+  - Basic C++(11)
+  - Modern C++(11/14)
 
 
 - Study Game Engine 3D
- - Unreal Blueprint
- - Unreal Script
- - Unity Script
+  - Unreal Blueprint
+  - Unreal Script
+  - Unity Script
 
 
 
