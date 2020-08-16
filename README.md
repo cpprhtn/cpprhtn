@@ -4,6 +4,8 @@
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
 
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprhtn)
+
 # **Curriculum**
 ### 1. MATH
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
