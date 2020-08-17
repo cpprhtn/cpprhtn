@@ -33,6 +33,7 @@ Stduying Deep learning library -> tensorflow, keras
   - 카이스트 문일철 교수님의 강의로 1, 2로 나누어져 있으며 기본적인 머신러닝 알고리즘부터 신경망의 기초가 되는 알고리즘까지 기초를 익힐 수 있음
   - 수학이 많이 나오지는 않지만 확률과 통계, 미적분 등을 알아야 배울 수 있으며, 한번에 이해하기에는 난이도가 있는 강의
 - [KAIST 응용인공지능연구실의 공개 강의 자료](https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg)
+  - 카이스트 문일철 교수님의 강의
   - Machine Learning의 기초에 대한 강의 :  Naive Bayes, Logistic Regression, Support Vector Machine, Gaussian Mixture, K-Means, Hidden Markov Model, Latent Dirichlet Allocation, Gibbs Sampling, Metropolis-Hastings Algorithm, Expectation-Maximization Algorithm 등에 대한 내용을 자세히 설명해주심
 
 ### 4. Bigdata
