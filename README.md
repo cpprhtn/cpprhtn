@@ -91,6 +91,16 @@ I studied Linux, Assembly, Go for a while
 - IOT
 - AI
 
+**Community**
+
+- 카카오 오픈채팅
+  - [C언어, C#, C++, 게임 엔진](https://open.kakao.com/o/ghFjlzr) 방장
+  - [자바,안드로이드](https://open.kakao.com/o/goAvtbOb) 부방장
+  - [파이썬,R](https://open.kakao.com/o/gWvnqvF) 부방장
+  - [Html, Css, Js](https://open.kakao.com/o/gm2yL8kb) 부방장
+  - [조립, 견적, pc문제](https://open.kakao.com/o/gEI0jymb) 부방장
+- [네이버카페(언어통합)](https://cafe.naver.com/codecat)
+
 # Coding Site (My profile)
 > Dacon (Using Python)
 https://dacon.io/myprofile/404506/overview/
