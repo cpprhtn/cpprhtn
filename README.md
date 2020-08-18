@@ -95,10 +95,10 @@ I studied Linux, Assembly, Go for a while
 > Dacon (Using Python)
 https://dacon.io/myprofile/404506/overview/
 
->Kaggle ()
+> Kaggle ()
 https://www.kaggle.com/cpprhtn
 
->BaekJoon (Using C++)
+> BaekJoon (Using C++)
 https://www.acmicpc.net/user/xkzl9830
 
 > Codeup (Using C)
