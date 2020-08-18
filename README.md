@@ -79,11 +79,17 @@ I studied Linux, Assembly, Go for a while
 
 
 - Study Game Engine 3D
-  - Unreal Blueprint
-  - Unreal Script
-  - Unity Script
+  - Unreal Blueprint (C++)
+  - Unreal Script    (C++)
+  - Unity Script     (C#)
 
 
+
+**High school 1, 2, 3 grade**
+
+- Arduino
+- IOT
+- AI
 
 # Coding Site (My profile)
 > Dacon (Using Python)
