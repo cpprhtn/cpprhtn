@@ -52,18 +52,6 @@ Stduying Deep learning (tensorflow, keras)
 - Hbase
 - Hive
 
-# Language Specification
-
-```
-My familiar computer language : C, C++, R, Python
-
-Studying C++ for 3 years (C++11, Modern C++14)
-
-Be able to produce web pages : HTML, CSS, JS
-
-I studied Linux, Assembly, Go for a while
-```
-
 # My Programming Timeline
 **Elementary school 5, 6 grade**
 
