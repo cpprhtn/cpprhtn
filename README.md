@@ -4,6 +4,16 @@
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
 
+# Language Specification
+
+My familiar computer language : C, C++, R, Python
+
+Studying C++ more than 3 years (C++11/14, Modern C++11/14)
+
+Be able to produce web pages : HTML, CSS, JS
+
+I studied Linux, Assembly, Go, Dart for a while
+
 # **Curriculum**
 ### 1. MATH
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
@@ -14,11 +24,11 @@
 
 ### 2. Programming(Python & R)
 ```
-Studying R, pandas, numpy  
+Studying R, pandas, numpy
 
-Studying Machine learning library in tree family -> random forest, xgboost, lightgbm
+Studying Machine learning
 
-Stduying Deep learning library -> tensorflow, keras
+Stduying Deep learning (tensorflow, keras)
 ```
 
 ### 3. Machine Learning and Artificial Intelligence(ML & AI)
