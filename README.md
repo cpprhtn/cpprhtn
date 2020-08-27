@@ -53,51 +53,51 @@ Stduying Deep learning (tensorflow, keras)
 - Hive
 
 # My Programming Timeline
-**Elementary school 5, 6 grade**
+- **Elementary school 5, 6 grade**
 
-- [Study C](https://github.com/cpprhtn/Learning_C)
-  - Theory & Grammar
-  - Data structure
-
-
-- [동래교육청 정보영재](https://github.com/cpprhtn/Informational_Education_Institute_for_Gifted)
-  - Basic Java
-  - HTML
-  - Robot Control
-  - Computer theory
-  - Adobe Flash
+  - [Study C](https://github.com/cpprhtn/Learning_C)
+    - Theory & Grammar
+    - Data structure
 
 
-
-**Middle school 1, 2, 3 grade**
-
-- [Study C++](https://github.com/cpprhtn/Cpp_BaekJoon)
-  - Basic C++(11)
-  - Modern C++(11/14)
-
-
-- Study Game Engine 3D
-  - Unreal Blueprint (C++)
-  - Unreal Script    (C++)
-  - Unity Script     (C#)
+  - [동래교육청 정보영재](https://github.com/cpprhtn/Informational_Education_Institute_for_Gifted)
+    - Basic Java
+    - HTML
+    - Robot Control
+    - Computer theory
+    - Adobe Flash
 
 
 
-**High school 1, 2, 3 grade**
+- **Middle school 1, 2, 3 grade**
 
-- Arduino
-- IOT
-- AI
+  - [Study C++](https://github.com/cpprhtn/Cpp_BaekJoon)
+    - Basic C++(11)
+    - Modern C++(11/14)
 
-**Community**
 
-- 카카오 오픈채팅
-  - [C언어, C#, C++, 게임 엔진](https://open.kakao.com/o/ghFjlzr) 방장
-  - [자바,안드로이드](https://open.kakao.com/o/goAvtbOb) 부방장
-  - [파이썬,R](https://open.kakao.com/o/gWvnqvF) 부방장
-  - [Html, Css, Js](https://open.kakao.com/o/gm2yL8kb) 부방장
-  - [조립, 견적, pc문제](https://open.kakao.com/o/gEI0jymb) 부방장
-- [네이버카페(언어통합)](https://cafe.naver.com/codecat)
+  - Study Game Engine 3D
+    - Unreal Blueprint (C++)
+    - Unreal Script    (C++)
+    - Unity Script     (C#)
+
+
+
+- **High school 1, 2, 3 grade**
+
+  - Arduino
+  - IOT
+  - AI
+
+- **Community**
+
+  - 카카오 오픈채팅
+    - [C언어, C#, C++, 게임 엔진](https://open.kakao.com/o/ghFjlzr) 방장
+    - [자바,안드로이드](https://open.kakao.com/o/goAvtbOb) 부방장
+    - [파이썬,R](https://open.kakao.com/o/gWvnqvF) 부방장
+    - [Html, Css, Js](https://open.kakao.com/o/gm2yL8kb) 부방장
+    - [조립, 견적, pc문제](https://open.kakao.com/o/gEI0jymb) 부방장
+  - [네이버카페(언어통합)](https://cafe.naver.com/codecat)
 
 # Coding Site (My profile)
 > Dacon (Using Python)
