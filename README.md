@@ -32,25 +32,25 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
   <p>
 
   - R, Machine Learning, R graphics cookbook
-   - e1071 (나이브베이즈)
-   - nnet (다항 로지스틱 회귀분석, 신경망)
-   - randomForest
-   - party (decision tree)
-   - neuralnet (신경망)
+    - e1071 (나이브베이즈)
+    - nnet (다항 로지스틱 회귀분석, 신경망)
+    - randomForest
+    - party (decision tree)
+    - neuralnet (신경망)
   - Python
-   - pands
-   - numpy
-   - TensorFlow
-   - Keras
+    - pands
+    - numpy
+    - TensorFlow
+    - Keras
   <details>
     <summary>XGBoost, LightGBM 부가 자료</summary>
     <p>
 
-     - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
-     - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
-     - [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
-     - [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
-     - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+    - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
+    - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
+    - [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
+    - [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
+    - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
     </p>
   </details>
