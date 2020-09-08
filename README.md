@@ -30,7 +30,17 @@ Studying Machine learning
 
 Stduying Deep learning (tensorflow, keras)
 ```
+<details><summary>XGBoost, LightGBM 부가 자료</summary>
+<p>
 
+- [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
+- [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
+- [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
+- [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
+- [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+
+</p>
+</details>
 ### 3. Machine Learning and Artificial Intelligence(ML & AI)
 - [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
   - [머신러닝과 딥러닝](http://www.edwith.org/others26)
