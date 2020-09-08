@@ -15,12 +15,15 @@ Be able to produce web pages : HTML, CSS, JS
 I studied Linux, Assembly, Go, Dart for a while
 
 # **Curriculum**
-### 1. MATH
+### <details><summary>1. MATH</summary>
+<p>
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
 - [Matrix](https://www.mathsisfun.com/algebra/matrix-introduction.html)
 - [Calculus](https://www.mathsisfun.com/calculus/index.html)
 - [Algebra](https://www.mathsisfun.com/algebra/index-college.html)
 - [Data Probability and Statistics](https://www.mathsisfun.com/data/index.html)
+</p>
+</details>
 
 ### 2. Programming(Python & R)
 ```
@@ -41,6 +44,7 @@ Stduying Deep learning (tensorflow, keras)
 
 </p>
 </details>
+
 ### 3. Machine Learning and Artificial Intelligence(ML & AI)
 - [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
   - [머신러닝과 딥러닝](http://www.edwith.org/others26)
