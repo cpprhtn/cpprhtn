@@ -15,7 +15,7 @@ Be able to produce web pages : **HTML, CSS, JS**
 I studied **Java, Linux, Assembly, Go, Dart** for a while
 
 # **Curriculum**
-<details><summary><h1>1. MATH</h1></summary>
+<details><h1><summary>1. MATH</summary></h1>
 <p>
 
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
