@@ -6,46 +6,56 @@
 
 # Language Specification
 
-My familiar computer language : C, C++, R, Python
+My familiar computer language : **C, C++, R, Python**
 
 Studying C++ more than 3 years (C++11/14, Modern C++11/14)
 
-Be able to produce web pages : HTML, CSS, JS
+Be able to produce web pages : **HTML, CSS, JS**
 
-I studied Linux, Assembly, Go, Dart for a while
+I studied **Java, Linux, Assembly, Go, Dart** for a while
 
 # **Curriculum**
 ### <details><summary>1. MATH</summary>
 <p>
+
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
 - [Matrix](https://www.mathsisfun.com/algebra/matrix-introduction.html)
 - [Calculus](https://www.mathsisfun.com/calculus/index.html)
 - [Algebra](https://www.mathsisfun.com/algebra/index-college.html)
 - [Data Probability and Statistics](https://www.mathsisfun.com/data/index.html)
+
 </p>
 </details>
 
-### 2. Programming(Python & R)
-```
-Studying R, pandas, numpy
-
-Studying Machine learning
-
-Stduying Deep learning (tensorflow, keras)
-```
-<details><summary>XGBoost, LightGBM 부가 자료</summary>
+### 2. <details><summary>Programming(Python & R)</summary>
 <p>
 
-- [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
-- [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
-- [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
-- [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
-- [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+- R, Machine Learning, R graphics cookbook
+  - e1071 (나이브베이즈)
+  - nnet (다항 로지스틱 회귀분석, 신경망)
+  - randomForest
+  - party (decision tree)
+  - neuralnet (신경망)
+- Python
+  - pands
+  - numpy
+  - TensorFlow
+  - Keras
+  - <details><summary>XGBoost, LightGBM 부가 자료</summary>
+  <p>
+  
+  - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
+  - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
+  - [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
+  - [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
+  - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
-</p>
-</details>
+  </p>
+  </details>
 
-### 3. Machine Learning and Artificial Intelligence(ML & AI)
+### <details><summary>3. Machine Learning and Artificial Intelligence(ML & AI)</summary>
+<p>
+
 - [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
   - [머신러닝과 딥러닝](http://www.edwith.org/others26)
     - 김성훈 교수님(지금은 네이버에 계신)의 '모두를 위한 딥러닝 강좌를 네이버의 edwith에서 제공하고 있음(유튜브로도 볼 수 있음)
@@ -59,12 +69,20 @@ Stduying Deep learning (tensorflow, keras)
       - 카이스트 문일철 교수님의 강의로 1, 2로 나누어져 있으며 기본적인 머신러닝 알고리즘부터 신경망의 기초가 되는 알고리즘까지 기초를 익힐 수 있음
       - 수학이 많이 나오지는 않지만 확률과 통계, 미적분 등을 알아야 배울 수 있으며, 한번에 이해하기에는 난이도가 있는 강의
 
-### 4. Bigdata
+</p>
+</details>
+
+### <details><summary>4. Bigdata</summary>
+<p>
+
 - Hadoop
 - MapReduce
 - SPARK
 - Hbase
 - Hive
+
+</p>
+</details>
 
 # My Programming Timeline
 - **Elementary school 5, 6 grade**
