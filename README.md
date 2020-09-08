@@ -15,7 +15,7 @@ Be able to produce web pages : **HTML, CSS, JS**
 I studied **Java, Linux, Assembly, Go, Dart** for a while
 
 # **Curriculum**
-### <details><summary>1. MATH</summary>
+<details><summary>1. MATH</summary>
 <p>
 
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
@@ -43,7 +43,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
   - Keras
   - <details><summary>XGBoost, LightGBM 부가 자료</summary>
   <p>
-  
+
   - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
   - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
   - [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
