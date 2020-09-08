@@ -91,7 +91,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
   </p>
 </details>
 
-# My Programming Timeline
+## My Programming Timeline
 - **Elementary school 5, 6 grade**
 
   - [Study C](https://github.com/cpprhtn/Learning_C)
