@@ -52,6 +52,9 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 
   </p>
   </details>
+  
+</p>
+</details>
 
 <details><summary><h1> 3. Machine Learning and Artificial Intelligence(ML & AI) </h1></summary>
 <p>
