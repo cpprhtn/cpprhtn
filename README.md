@@ -4,7 +4,7 @@
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
 
-# Language Specification
+## Language Specification
 
 My familiar computer language : **C, C++, R, Python**
 
@@ -14,8 +14,8 @@ Be able to produce web pages : **HTML, CSS, JS**
 
 I studied **Java, Linux, Assembly, Go, Dart** for a while
 
-# **Curriculum**
-<details><summary><h1> 1. MATH </h1></summary>
+## **Curriculum**
+<details><summary>1. MATH</summary>
 <p>
 
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
@@ -28,7 +28,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 </details>
 
 <details>
-  <summary><h1> 2. Programming(Python & R) </h1></summary>
+  <summary>2. Programming(Python & R)</summary>
   <p>
 
   - R, Machine Learning, R graphics cookbook
@@ -59,7 +59,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 </details>
 
 <details>
-  <summary style="font-size: 32px;">3. Machine Learning and Artificial Intelligence(ML & AI) </summary>
+  <summary>3. Machine Learning and Artificial Intelligence(ML & AI) </summary>
   <p>
 
   - [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
@@ -79,7 +79,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 </details>
 
 <details>
-  <summary> 4. Bigdata </summary>
+  <summary>4. Bigdata</summary>
   <p>
 
   - Hadoop
