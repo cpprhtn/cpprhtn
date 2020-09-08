@@ -42,19 +42,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
     - numpy
     - TensorFlow
     - Keras
-  <details>
-    <summary>XGBoost, LightGBM 부가 자료</summary>
-    <p>
-
-    - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
-    - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
-    - [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
-    - [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
-    - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
-
-    </p>
-  </details>
-
+  
   </p>
 </details>
 
@@ -76,6 +64,16 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
         - 수학이 많이 나오지는 않지만 확률과 통계, 미적분 등을 알아야 배울 수 있으며, 한번에 이해하기에는 난이도가 있는 강의
 
   </p>
+  <summary>XGBoost, LightGBM 부가 자료</summary>
+    <p>
+
+    - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
+    - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
+    - [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
+    - [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
+    - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+
+    </p>
 </details>
 
 <details>
