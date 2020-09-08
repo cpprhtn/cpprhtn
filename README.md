@@ -15,7 +15,7 @@ Be able to produce web pages : **HTML, CSS, JS**
 I studied **Java, Linux, Assembly, Go, Dart** for a while
 
 # **Curriculum**
-<details><h1><summary>1. MATH</summary></h1>
+<details><summary><h1> 1. MATH </h1></summary>
 <p>
 
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
@@ -27,7 +27,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 </p>
 </details>
 
-<details><summary>2. Programming(Python & R)</summary>
+<details><summary><h1> 2. Programming(Python & R) </h1></summary>
 <p>
 
 - R, Machine Learning, R graphics cookbook
@@ -53,7 +53,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
   </p>
   </details>
 
-<details><summary>3. Machine Learning and Artificial Intelligence(ML & AI)</summary>
+<details><summary><h1> 3. Machine Learning and Artificial Intelligence(ML & AI) </h1></summary>
 <p>
 
 - [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
@@ -72,7 +72,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 </p>
 </details>
 
-### <details><summary>4. Bigdata</summary>
+<details><summary><h1> 4. Bigdata </h1></summary>
 <p>
 
 - Hadoop
