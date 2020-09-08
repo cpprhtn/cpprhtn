@@ -59,7 +59,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 </details>
 
 <details>
-  <summary><h1> 3. Machine Learning and Artificial Intelligence(ML & AI) </h1></summary>
+  <summary style="font-size: 32px;">3. Machine Learning and Artificial Intelligence(ML & AI) </summary>
   <p>
 
   - [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
@@ -79,7 +79,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 </details>
 
 <details>
-  <summary><h1> 4. Bigdata </h1></summary>
+  <summary> 4. Bigdata </summary>
   <p>
 
   - Hadoop
