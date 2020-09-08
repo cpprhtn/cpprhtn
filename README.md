@@ -65,15 +65,13 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 
   </p>
   <summary>XGBoost, LightGBM 부가 자료</summary>
-    <p>
 
-    - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
-    - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
-    - [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
-    - [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
-    - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+    - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137) <br>
+    - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html) <br>
+    - [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters) <br>
+    - [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis) <br>
+    - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) 
 
-    </p>
 </details>
 
 <details>
@@ -90,6 +88,8 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
 </details>
 
 ## My Programming Timeline
+<details>
+<p>
 - **Elementary school 5, 6 grade**
 
   - [Study C](https://github.com/cpprhtn/Learning_C)
@@ -135,8 +135,10 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
     - [Html, Css, Js](https://open.kakao.com/o/gm2yL8kb) 부방장
     - [조립, 견적, pc문제](https://open.kakao.com/o/gEI0jymb) 부방장
   - [네이버카페(언어통합)](https://cafe.naver.com/codecat)
+</p>
+</details>
 
-# Coding Site (My profile)
+## Coding Site (My profile)
 > Dacon (Using Python)
 https://dacon.io/myprofile/404506/overview/
 
