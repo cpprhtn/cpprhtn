@@ -12,7 +12,7 @@ Studying C++ more than 3 years (C++11/14, Modern C++11/14)
 
 Be able to produce web pages : **HTML, CSS, JS**
 
-I studied **Java, Linux, Assembly, Go, Dart** for a while
+I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 
 ## **Curriculum**
 ### 1. MATH
@@ -43,6 +43,7 @@ I studied **Java, Linux, Assembly, Go, Dart** for a while
   - numpy
   - TensorFlow
   - Keras
+  - PyTorch
 - XGBoost, LightGBM 부가 자료
   - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
   - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
