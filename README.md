@@ -56,10 +56,10 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 - C++11/14
   - [처음 공부한 곳](https://m.blog.naver.com/kks227/60204917341)
 - C++17 (공부중)
-  - [옥찬호 형님의 C++17 Key Features Summary](https://www.slideshare.net/utilforever/c17-key-features-summary-ver-2)
+  - [옥찬호 개발자의 C++17 Key Features Summary](https://www.slideshare.net/utilforever/c17-key-features-summary-ver-2)
 - C++20 (공부중)
-  - [옥찬호 형님의 C++20 Key Features Summary](https://www.slideshare.net/utilforever/c20-key-features-summary)
-  - [CppKorea의 C++20 Study](https://github.com/CppKorea/Cpp20Study)
+  - [옥찬호 개발자의 C++20 Key Features Summary](https://www.slideshare.net/utilforever/c20-key-features-summary)
+  - [Git hub CppKorea page의 C++20 Study](https://github.com/CppKorea/Cpp20Study)
 </p>
 </details>
 
