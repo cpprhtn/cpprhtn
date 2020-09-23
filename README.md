@@ -132,9 +132,12 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 
 - **High school 1, 2, 3 grade**
 
-  - Arduino
-  - IOT
-  - AI
+  - [IOT](https://github.com/cpprhtn/Learning_C/tree/C/%EB%B6%80%EC%82%B0%EB%8C%80-%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%20%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
+    - 아두이노
+    - 라즈베리파이
+    - 앱인벤터
+    - 파이어베이스
+  - AI(머신러닝, 딥러닝)
 
 </p>
 </details>
