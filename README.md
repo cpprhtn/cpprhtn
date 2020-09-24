@@ -45,7 +45,7 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
   - numpy
   - TensorFlow
   - Keras
-  - PyTorch
+  - [PyTorch](https://wikidocs.net/book/2788)
 - XGBoost, LightGBM 부가 자료
   - [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
   - [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
