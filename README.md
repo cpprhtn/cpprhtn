@@ -67,6 +67,9 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 <details>
 <p>
 
+- [인공지능 기초](http://www.kmooc.kr/courses/course-v1:SNUk+SNU048_011k+2020_T2/about)
+  - K-MOOC 강의로 서울대학교 김건희 교수님께서 진행
+
 - [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
   - [머신러닝과 딥러닝](http://www.edwith.org/others26)
     - 김성훈 교수님(지금은 네이버에 계신)의 '모두를 위한 딥러닝 강좌를 네이버의 edwith에서 제공하고 있음(유튜브로도 볼 수 있음)
