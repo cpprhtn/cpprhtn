@@ -92,7 +92,7 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 </p>
 </details>
 
-# My Programming Timeline
+## My Programming Timeline
 <details>
 <p>
 
@@ -148,7 +148,7 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
   - [네이버카페(언어통합)](https://cafe.naver.com/codecat)
   - [BGM(부산 개발자들의 모임)](https://open.kakao.com/o/gr972MTb) 공동개설
 
-# Coding Site (My profile)
+## Coding Site (My profile)
 > Dacon (Using Python)
 https://dacon.io/myprofile/404506/overview/
 
