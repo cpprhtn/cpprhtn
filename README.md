@@ -17,22 +17,20 @@ Be able to produce web pages : **HTML, CSS, JS**
 I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 
 ## **Curriculum**
-### 1. MATH
 <details>
 <p>
 
+### 1. MATH
 - [Vector](https://www.mathsisfun.com/algebra/vectors.html)
 - [Matrix](https://www.mathsisfun.com/algebra/matrix-introduction.html)
 - [Calculus](https://www.mathsisfun.com/calculus/index.html)
 - [Algebra](https://www.mathsisfun.com/algebra/index-college.html)
 - [Data Probability and Statistics](https://www.mathsisfun.com/data/index.html)
 
-</p>
-</details>
+
 
 ### 2. Programming(Python & R & C++)
-<details>
-<p>
+
 
 - R, Machine Learning, R graphics cookbook
   - e1071 (나이브베이즈)
@@ -60,12 +58,10 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 - C++20 (공부중)
   - [옥찬호 개발자의 C++20 Key Features Summary](https://www.slideshare.net/utilforever/c20-key-features-summary)
   - [Git hub CppKorea page의 C++20 Study](https://github.com/CppKorea/Cpp20Study)
-</p>
-</details>
+
 
 ### 3. Machine Learning and Artificial Intelligence(ML & AI)
-<details>
-<p>
+
 
 - [인공지능 기초](http://www.kmooc.kr/courses/course-v1:SNUk+SNU048_011k+2020_T2/about)
   - K-MOOC 강의로 서울대학교 김건희 교수님께서 진행
@@ -83,12 +79,9 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
       - 카이스트 문일철 교수님의 강의로 1, 2로 나누어져 있으며 기본적인 머신러닝 알고리즘부터 신경망의 기초가 되는 알고리즘까지 기초를 익힐 수 있음
       - 수학이 많이 나오지는 않지만 확률과 통계, 미적분 등을 알아야 배울 수 있으며, 한번에 이해하기에는 난이도가 있는 강의
 
-</p>
-</details>
 
 ### 4. Bigdata
-<details>
-<p>
+
 
 - Hadoop
 - MapReduce
