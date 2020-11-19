@@ -148,6 +148,11 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
   - [네이버카페(언어통합)](https://cafe.naver.com/codecat)
   - [BGM(부산 개발자들의 모임)](https://open.kakao.com/o/gr972MTb) 공동개설
 
+
+  - [Codmingout(코밍아웃)](https://github.com/CodmingOut) AI,C++ 교육담당
+    - 청소년(부산)을 대상으로 교육 기회 제공!!!
+    - [AI 교육자료](https://github.com/CodmingOut/AI_Mentoring) 
+
 ## Coding Site (My profile)
 > Dacon (Using Python)
 https://dacon.io/myprofile/404506/overview/
