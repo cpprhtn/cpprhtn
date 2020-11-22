@@ -20,16 +20,7 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 <details>
 <p>
 
-### 1. MATH
-- [Vector](https://www.mathsisfun.com/algebra/vectors.html)
-- [Matrix](https://www.mathsisfun.com/algebra/matrix-introduction.html)
-- [Calculus](https://www.mathsisfun.com/calculus/index.html)
-- [Algebra](https://www.mathsisfun.com/algebra/index-college.html)
-- [Data Probability and Statistics](https://www.mathsisfun.com/data/index.html)
-
-
-
-### 2. Programming(Python & R & C++)
+### 1. Programming(Python & R & C++)
 
 
 - R, Machine Learning, R graphics cookbook
@@ -60,7 +51,7 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
   - [Git hub CppKorea page의 C++20 Study](https://github.com/CppKorea/Cpp20Study)
 
 
-### 3. Machine Learning and Artificial Intelligence(ML & AI)
+### 2. Machine Learning and Artificial Intelligence(ML & AI)
 
 
 - [인공지능 기초](http://www.kmooc.kr/courses/course-v1:SNUk+SNU048_011k+2020_T2/about)
@@ -80,12 +71,12 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
       - 수학이 많이 나오지는 않지만 확률과 통계, 미적분 등을 알아야 배울 수 있으며, 한번에 이해하기에는 난이도가 있는 강의
 
 
-### 4. Bigdata
+### 3. Bigdata
 
 
-- Hadoop
+- Hadoop (studying)
 - MapReduce
-- SPARK
+- SPARK  (studying)
 - Hbase
 - Hive
 
