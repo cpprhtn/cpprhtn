@@ -92,51 +92,6 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 </p>
 </details>
 
-## My Programming Timeline
-<details>
-<p>
-
-- **Elementary school 5, 6 grade**
-
-  - [Study C](https://github.com/cpprhtn/Learning_C)
-    - Theory & Grammar
-    - Data structure
-
-
-  - [동래교육청 정보영재](https://github.com/cpprhtn/Informational_Education_Institute_for_Gifted)
-    - Basic Java
-    - HTML
-    - Robot Control
-    - Computer theory
-    - Adobe Flash
-
-
-
-- **Middle school 1, 2, 3 grade**
-
-  - [Study C++](https://github.com/cpprhtn/Cpp_BaekJoon)
-    - Basic C++(11)
-    - Modern C++(11/14)
-
-
-  - Study Game Engine 3D
-    - Unreal Blueprint (C++)
-    - Unreal Script    (C++)
-    - Unity Script     (C#)
-
-
-
-- **High school 1, 2, 3 grade**
-
-  - [IOT](https://github.com/cpprhtn/Learning_C/tree/C/%EB%B6%80%EC%82%B0%EB%8C%80-%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%20%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
-    - 아두이노
-    - 라즈베리파이
-    - 앱인벤터
-    - 파이어베이스
-  - AI(머신러닝, 딥러닝)
-
-</p>
-</details>
 
 ## Community
   - 카카오 오픈채팅
