@@ -4,7 +4,7 @@
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=xkzl9830)](https://solved.ac/xkzl9830)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=xkzl9830)](https://solved.ac/profile/xkzl9830)
 ## Language Specification
 
 My familiar computer language : **C, C++, R, Python**
