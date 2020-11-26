@@ -99,6 +99,7 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
   - [Codmingout(코밍아웃)](https://github.com/CodmingOut) AI,C++ 교육담당
     - 청소년(부산)을 대상으로 교육 기회 제공!!!
     - [AI 교육자료](https://github.com/CodmingOut/AI_Mentoring) 
+    - [C++ 교육자료](https://github.com/cpprhtn/Cpp_Study)
 
 ## Coding Site (My profile)
 
