@@ -17,7 +17,7 @@ Be able to produce web pages : **HTML, CSS, JS**
 
 I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
 
-## [My Curriculum](./Curriculum.md)
+## [My Curriculum <- click](./Curriculum.md)
 
 ## Community
   - 카카오 오픈채팅
@@ -35,16 +35,3 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
     - [AI 교육자료](https://github.com/CodmingOut/AI_Mentoring) 
     - [C++ 교육자료](https://github.com/cpprhtn/Cpp_Study)
 
-## Coding Site (My profile)
-
-> BaekJoon (Using C++)
-https://www.acmicpc.net/user/xkzl9830
-
-> Dacon (Using Python)
-https://dacon.io/myprofile/404506/overview/
-
-> Kaggle ()
-https://www.kaggle.com/cpprhtn
-
-> Codeup (Using C)
-https://codeup.kr/userinfo.php?user=cpprhtn
