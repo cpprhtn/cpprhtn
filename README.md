@@ -5,6 +5,7 @@
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xkzl9830)](https://solved.ac/xkzl9830)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprhtn&hide_border=true&layout=compact)](https://github.com/cpprhtn)
 ## Language Specification
 
 My familiar computer language : **C, C++, R, Python**
