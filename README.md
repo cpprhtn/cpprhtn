@@ -3,7 +3,7 @@
 > High-student-3grade studen dreaming of bigdata scientist
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=utilForever&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cpprhtn&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xkzl9830)](https://solved.ac/xkzl9830)
 
