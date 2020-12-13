@@ -9,15 +9,20 @@
 
 ## Language Specification
 
-My familiar computer language : **C, C++, R, Python**
+### Main stack
 
-Studying C++ more than 3 years (Modern C++11/14)
+- C/C++
+- Python
+- R
 
-I am studying **C++17/20** recently
+### I’m currently learning
 
-Be able to produce web pages : **HTML, CSS, JS**
+- C++17/20
+- Rust
 
-I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
+### I studied for a while
+
+HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
 ## [My Curriculum <- click](./Curriculum.md)
 
@@ -36,4 +41,3 @@ I studied **Java, Linux, Assembly, Go, Dart(Flutter)** for a while
     - 청소년(부산)을 대상으로 교육 기회 제공!!!
     - [AI 교육자료](https://github.com/CodmingOut/AI_Mentoring) 
     - [C++ 교육자료](https://github.com/cpprhtn/Cpp_Study)
-
