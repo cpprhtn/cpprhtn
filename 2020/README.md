@@ -50,7 +50,7 @@
 
 - Morden_Cpp17-20
 
-- Cpp20Study
+- Cpp20Study : 옥찬호(CppKorea 창설자)형의 스터디입니다.
 
 - Cpp_BaekJoon
 
