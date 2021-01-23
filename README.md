@@ -37,5 +37,5 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
   - [Codmingout(코밍아웃)](https://github.com/CodmingOut) AI,C++ 교육담당
     - 청소년(부산)을 대상으로 교육 기회 제공!!!
-    - [AI 교육자료](https://github.com/CodmingOut/AI_Mentoring) 
+    - [AI 교육자료](https://github.com/cpprhtn/Cppthrn-s_Deep_Learning) 
     - [C++ 교육자료](https://github.com/cpprhtn/Cpp_Study)
