@@ -23,6 +23,6 @@
 
 HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
-## [My Curriculum](./Curriculum.md)
+## [My 2020 Curriculum](./Curriculum.md)
 
 ## [Community](./Community.md)
