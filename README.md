@@ -59,7 +59,7 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
 - NIA 2020 데이터 크리에이터 캠프
 
-- 부산대학교 고교 SW 인재교육 1, 2, 3기 수료 (180시간)
+- 부산대학교 고교 SW 인재교육 1, 2, 3기 수료
 
 - AI관련 논문[feat 부경대 교수님] (2020.12 ~ )
 
