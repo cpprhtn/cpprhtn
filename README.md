@@ -67,5 +67,5 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
 - 부경대학교 인공지능 외부강사 (2021.02.01 ~ )
 
-- Mathematics For Machine Learning (MML) 책 번역 (저작권문제로 중단)
+- [Mathematics For Machine Learning (MML) 책 번역](https://cpprhtn.github.io/2021-04-30/mml-translation) (저작권문제로 중단)
 
