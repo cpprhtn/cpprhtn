@@ -69,3 +69,5 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
 - [Mathematics For Machine Learning (MML) 책 번역](https://cpprhtn.github.io/2021-04-30/mml-translation) (저작권문제로 중단)
 
+- TensorFlow Developer Certificate
+
