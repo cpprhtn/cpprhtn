@@ -26,7 +26,7 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 ## [My 2020 Curriculum](./Curriculum.md)
 
 ## Activity
-### [My Community](.Community.md)
+### [My Community](Community.md)
 
 ### Awards
 - 2018 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) 알고리즘 프로그래밍 부문 고등부 장려상
@@ -35,7 +35,7 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
 
 
-### et cetera
+### etcetera
 
 - 부산광역시교육청 SW 학생동아리 2기
 
