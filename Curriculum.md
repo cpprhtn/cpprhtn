@@ -1,4 +1,4 @@
-# Cpprhtn's Curriculum
+# Cpprhtn's 2020 Curriculum
 
 ### 1. Programming(Python & R & C++)
 
