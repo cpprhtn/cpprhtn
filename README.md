@@ -11,7 +11,7 @@
 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Eo_circle_light-blue_letter-r.svg" alt="R" width="40" height="40"/> </a> 
 ### I’m currently learning
-<a href="" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg" alt="Aparch Spark" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Aparch Spark" width="60" height="40"/> </a>
 
 
 
@@ -39,7 +39,7 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
 - 부산대학교 고교 SW 인재교육 1, 2, 3기 수료
 
-- AI관련 논문[feat 부경대 교수님] (2020.12 ~ )
+- AI관련 논문 (2020.12 ~ )
 
 - 한국교원대학교 연구참여 (2021.01 ~ 2020.01)
 
