@@ -9,8 +9,7 @@
 
 ### Main stack
 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Eo_circle_light-blue_letter-r.svg
-" alt="R" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Eo_circle_light-blue_letter-r.svg" alt="R" width="40" height="40"/> </a> 
 ### I’m currently learning
 
 - C++17/20
