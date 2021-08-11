@@ -39,13 +39,14 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 
 - 부산대학교 고교 SW 인재교육 1, 2, 3기 수료
 
-- AI관련 논문 (2020.12 ~ )
+- AI 해양관련 예측 연구 및 논문 (2020.12 ~ )
 
-- 한국교원대학교 연구참여 (2021.01 ~ 2020.01)
+- 한국교원대학교 연구참여 (2021.01)
 
 - 부경대학교 인공지능 외부강사 (2021.02.01 ~ )
 
 - [Mathematics For Machine Learning (MML) 책 번역](https://cpprhtn.github.io/2021-04-30/mml-translation) (저작권문제로 중단)
 
-- TensorFlow Developer Certificate
+- [TensorFlow Developer Certificate](https://cpprhtn.github.io/2021-06-13/tensorflow-certificate)
 
+- 과학고등학교 Tensorflow 캠프 외부강사 (2021.07)
