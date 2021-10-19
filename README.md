@@ -50,3 +50,5 @@ HTML, CSS, JS, Java, Linux, Assembly, Go, Dart(Flutter)
 - [TensorFlow Developer Certificate](https://cpprhtn.github.io/2021-06-13/tensorflow-certificate)
 
 - 과학고등학교 Tensorflow 캠프 외부강사 (2021.07)
+
+- 부산대학교 드론 비전 연구중
