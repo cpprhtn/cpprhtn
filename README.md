@@ -23,9 +23,9 @@
   <p align="center"> Framework </p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache Hive&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=white"/></a>&nbsp 
 </p>
 
 
