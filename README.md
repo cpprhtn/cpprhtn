@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=140&section=header&text=Cpprhtn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gray&height=140&section=header&text=Cpprhtn&fontSize=70&animation=twinkling)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cpprhtn&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
