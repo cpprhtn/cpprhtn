@@ -11,14 +11,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprhtn&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 </div>
 
-<h3 align="center"> Blog </h3>
 
-<div align="center" style="text-align:center">
-  
-  [![Blog](https://img.shields.io/badge/Blog-33FF66?style=flat-square&logo=blogger&logoColor=white)](https://cpprhtn.github.io/)
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/cpprhtn/34b2d52c37aa42b6b2d9ba5c39eb5472)
-  
-</div>
 <p align="center">
   
 </p>
@@ -43,3 +36,12 @@
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=white"/></a>&nbsp 
 </p>
 
+
+<h3 align="center"> Blog </h3>
+
+<div align="center" style="text-align:center">
+  
+  [![Blog](https://img.shields.io/badge/Blog-33FF66?style=flat-square&logo=blogger&logoColor=white)](https://cpprhtn.github.io/)
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/cpprhtn/34b2d52c37aa42b6b2d9ba5c39eb5472)
+  
+</div>
