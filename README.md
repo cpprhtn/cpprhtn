@@ -42,6 +42,6 @@
 <div align="center" style="text-align:center">
   
   [![Blog](https://img.shields.io/badge/Blog-22cc44?style=flat-square&logo=blogger&logoColor=white)](https://cpprhtn.github.io/)
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/cpprhtn/34b2d52c37aa42b6b2d9ba5c39eb5472)
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://cpprhtn.notion.site/cpprhtn/34b2d52c37aa42b6b2d9ba5c39eb5472)
   
 </div>
