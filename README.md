@@ -17,13 +17,6 @@
 </p>
 <br><br>
 
-<h3 align="center">👀 Introduce Myself 👀</h3>
-
-<div align="center" style="text-align:center">
-  
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://glib-chip-df3.notion.site/00d1a65f872644498848301aedb230e9)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cpprhtn/)](https://www.linkedin.com/in/cpprhtn/)
-</div>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
