@@ -12,7 +12,6 @@
 </div>
 <h3 align="center">🛠 About Me 🛠</h3>
 <p align="center">
-  <a href="https://www.notion.so/cpprhtn/Junwon-Lee-Portfolio-8c55c6fefa184e5cb218687a84ba38bb"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
   <a href="https://www.linkedin.com/in/cpprhtn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 <h3 align="center">Hit Count</h3>
